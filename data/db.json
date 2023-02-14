@@ -1,0 +1,58 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime accusantium natus provident, vero voluptatum repellat. Reiciendis aliquid itaque, ducimus ad veniam temporibus nesciunt, facere ipsa blanditiis officiis distinctio minus veritatis.",
+      "author": "Alex"
+    },
+    {
+      "id": 2,
+      "title": "All about PrEP",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime accusantium natus provident, vero voluptatum repellat. Reiciendis aliquid itaque, ducimus ad veniam temporibus nesciunt, facere ipsa blanditiis officiis distinctio minus veritatis.",
+      "author": "Chidi"
+    },
+    {
+      "id": 3,
+      "title": "Story behind the Scene",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime accusantium natus provident, vero voluptatum repellat. Reiciendis aliquid itaque, ducimus ad veniam temporibus nesciunt, facere ipsa blanditiis officiis distinctio minus veritatis.",
+      "author": "Alex"
+    },
+    {
+      "id": 4,
+      "title": "The less grateful",
+      "body": "In the this world full of ups and down , we all took our footsteps towards what may seems like the real world, are we all lost all our hopes and dreams , far away from reality we all once lived",
+      "author": "bube"
+    },
+    {
+      "title": "The Struggle",
+      "body": "Well it not as it seems that we all be here if life is fare to you please enjoy it for God's sake ",
+      "author": "Bube",
+      "id": 5
+    },
+    {
+      "title": "I Should have Told Her",
+      "body": "...",
+      "author": "Bube",
+      "id": 6
+    },
+    {
+      "title": "njnjjb n n n",
+      "body": " n bn nm nm nm nm nm",
+      "author": "nm nh nhj ",
+      "id": 7
+    },
+    {
+      "title": "ggygygu",
+      "body": "gkhgjhgjkgjg",
+      "author": "gjbjbj",
+      "id": 8
+    },
+    {
+      "title": "fnklnk",
+      "body": "njkvjnj",
+      "author": "jnvnjnjv",
+      "id": 9
+    }
+  ]
+}
